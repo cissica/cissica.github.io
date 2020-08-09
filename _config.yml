@@ -1,11 +1,11 @@
 # Site settings
 author: Cissica Gonzalez Martinez
-title: 
+title: Why did I decide to study Software Engineering?
 header-img: img/home-bg.png
 email: cecemartinez@hotmail.com
 copyright_name: Cissica Gonzalez Martinez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  I want to be a Software Engineer when I grow up. 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  cissica
